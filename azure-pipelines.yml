@@ -38,7 +38,7 @@ steps:
     ReleaseId: '3314'
     APIAuthenticationType: '1'
     APIKey: '32439b29-513c-45ff-8cb3-ae7eb5515336'
-    APISecret: 'd0BkdVJTSjRxbXBuNSx5PU03c2FXRjZ1UDNLb1VR0'
+    APISecret: 'd0BkdVJTSjRxbXBuNSx5PU03c2FXRjZ1UDNLb1'
     EntitlementPreference: '1'
     PurchaseEntitlements: true
     PreferRemediation: true
